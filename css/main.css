@@ -1,0 +1,41 @@
+body{
+  background-color: blue;
+}
+.pokemon{
+    height: 180px;
+    width: 180px;
+}
+
+.header{
+    font-size: 80px;
+    color: yellow;
+}
+.card-title{
+  color:yellow;
+}
+.card-success{
+  background-color: blue;
+
+}
+.card-block{
+  color: yellow;
+}
+
+.btn-poke{
+
+    background-color: rgb(238, 238, 238);
+    color: rgb(160, 159, 159);
+}
+
+input[type=text] {
+width: 40%;
+    padding: 5px 5px;
+    margin: 8px 0;
+    box-sizing: border-box;
+
+    background-color: rgb(238, 238, 238);
+}
+.search{
+        background-color: rgba(153, 22, 22, 0.596);
+
+    }
