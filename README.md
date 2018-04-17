@@ -1,4 +1,4 @@
-# Pokédex #
+# Pokedex 
 
 ![Pokedex](./assets/images/Pokedex1.png)
 
@@ -9,7 +9,7 @@ En este caso se replica una POKEDÉX implementando la API denominada POKEAPI, la
 1. Información de todos los pokemons
 https://pokeapi.co/api/v2/pokedex/1/
 
-![filter](./assets/images/filterPokedex.png)
+![filter](./assets/images/filerPokedex.png)
 
 2. Información de un pokemon individual
 https://pokeapi.co/api/v2/pokemon-species/1/
